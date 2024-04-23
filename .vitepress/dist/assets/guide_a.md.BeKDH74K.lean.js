@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,l as o}from"./chunks/framework.CDmezWpO.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/a.md","filePath":"guide/a.md"}'),s={name:"guide/a.md"},n=o("p",null,"aaa",-1),r=[n];function c(d,i,_,l,p,m){return t(),a("div",null,r)}const h=e(s,[["render",c]]);export{f as __pageData,h as default};
