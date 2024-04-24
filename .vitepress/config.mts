@@ -6,6 +6,7 @@ import { set_sidebar } from "./set_sidebar";
 export default defineConfig({
   title: "starry code",
   description: "代码要闪闪发光",
+  base: "/starry-code/",
   // titleTemplate: "Custom Suffix",
   titleTemplate: ":title - Custom Suffix",
   themeConfig: {
